@@ -47,7 +47,9 @@
 <option value="0" selected>$ USD</option>
 <option value="1">€ EURO</option>
 <option value="2">$ CAD</option>
-
+<option value="3">₹ INR</option>
+<option value="4">¥ CNY</option>
+<option value="5">৳ BDT</option>
 </select>
 </div>
 </li>
@@ -70,7 +72,7 @@
 <div class="col-lg-4 col-md-4 col-12">
 <div class="top-middle">
 <ul class="useful-links">
-<li><a href="index.blade.php">Home</a></li>
+<li><a href="#">Home</a></li>
 <li><a href="about-us.html">About Us</a></li>
 <li><a href="contact.html">Contact Us</a></li>
 </ul>
